@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">NaviAndLifecycle</string>
+    <string name="next_fragment_main_activity">Next Fragment(Main Activity)</string>
+    <string name="next_activity">Next Activity</string>
+    <string name="first_activity">First activity</string>
+    <string name="second_activity">Second activity</string>
+    <string name="previous_activity">Previous Activity</string>
+    <string name="first_fragment">First fragment</string>
+    <string name="go_to_second_fragment">Go To Second Fragment</string>
+    <string name="fourth_fragment">Fourth fragment</string>
+    <string name="go_to_first_fragment">Go To First Fragment</string>
+    <string name="second_fragment">Second fragment</string>
+    <string name="go_to_third_fragment">Go To Third Fragment</string>
+    <string name="third_fragment">Third fragment</string>
+    <string name="go_to_fourth_fragment">Go To Fourth Fragment</string>
+</resources>
