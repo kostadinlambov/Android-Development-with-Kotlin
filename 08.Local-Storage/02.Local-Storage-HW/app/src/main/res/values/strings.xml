@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WorkWithApi</string>
+    <string name="first_fragment">First fragment</string>
+    <string name="go_to_second_fragment">Go To Second Fragment</string>
+    <string name="second_fragment">Second fragment</string>
+    <string name="go_back">Back</string>
+</resources>
